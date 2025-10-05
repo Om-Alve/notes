@@ -12,4 +12,6 @@ Detach from session -> `<leader>d`
 
 Cycle between sessions -> `<leader>(` and `<leader>)`
 
+Enter Visual Mode (for selecting and yanking stuff) -> `<leader>[`
+
 Ref: [Tmux Cheatsheet](https://tmuxcheatsheet.com/)
