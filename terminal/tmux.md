@@ -5,3 +5,11 @@ Attaching to a named tmux session -> `tmux a -t <name>`
 List all tmux sessions -> `tmux list-session`
 
 Rename a tmux session -> `<leader>$`
+
+Run a command -> `<leader>:`
+
+Detach from session -> `<leader>d`
+
+Cycle between sessions -> `<leader>(` and `<leader>)`
+
+Ref: [Tmux Cheatsheet](https://tmuxcheatsheet.com/)
