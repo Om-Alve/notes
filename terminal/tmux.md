@@ -14,4 +14,8 @@ Cycle between sessions -> `<leader>(` and `<leader>)`
 
 Enter Visual Mode (for selecting and yanking stuff) -> `<leader>[`
 
+Kill pane -> `<leader>x`
+
+New pane -> `<leader>c`
+
 Ref: [Tmux Cheatsheet](https://tmuxcheatsheet.com/)
