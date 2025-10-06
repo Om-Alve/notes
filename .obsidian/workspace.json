@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/10th Oct 2025.md",
+                "file": "tools/tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10th Oct 2025"
+              "title": "tools"
             }
           },
           {
@@ -41,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/10th Oct 2025.md",
+                "file": "python/python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10th Oct 2025"
+              "title": "python"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,37 +199,38 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4d432d95a3918f27",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "tools/tools.md",
+    "terminal/terminal.md",
+    "ssh/ssh.md",
+    "ssh/change-passphrase.md",
+    "python/python.md",
+    "git/git.md",
+    "devtools/devtools.md",
+    "daily-notes/daily notes.md",
+    "cli/cli.md",
+    "cli/df.md",
+    "python/Function Overloading in Python.md",
+    "daily-notes/10th Oct 2025.md",
+    "git/git-submodules.md",
+    "python/glob.md",
+    "things-to-do.md",
+    "git/Untitled.md",
     "devtools/watchexec.md",
     "devtools/mprocs.md",
     "assets/Pasted image 20251006235825.png",
     "assets",
     "Pasted image 20251006235707.png",
     "devtools/just.md",
-    "daily-notes/10th Oct 2025.md",
-    "things-to-do.md",
     "Home.md",
-    "python/glob.md",
-    "python/python.md",
     "python",
-    "cli/cli.md",
-    "daily-notes/daily notes.md",
     "2025-10-06.md",
     "Daily Notes/Untitled.md",
     "daily-notes",
-    "tools/tools.md",
-    "terminal/terminal.md",
-    "ssh/ssh.md",
-    "git/git.md",
-    "cli/df.md",
     "git/git-cherry-pick.md",
     "ssh/ssh-keygen.md",
-    "devtools/devtools.md",
-    "ssh/change-passphrase.md",
     "tools/yt-dlp.md",
-    "git/git-submodules.md",
-    "terminal/export-env-vars-from-env.md",
-    "terminal/tmux.md"
+    "terminal/export-env-vars-from-env.md"
   ]
 }

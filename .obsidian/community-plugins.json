@@ -3,5 +3,6 @@
   "obsidian-vimrc-support",
   "leader-hotkeys-obsidian",
   "homepage",
-  "dataview"
+  "dataview",
+  "obsidian-linter"
 ]
