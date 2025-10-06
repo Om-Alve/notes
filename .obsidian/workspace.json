@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "devtools/just.md",
+                "file": "daily-notes/10th Oct 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "just"
+              "title": "10th Oct 2025"
             }
           }
         ],
@@ -202,10 +202,15 @@
   },
   "active": "4d432d95a3918f27",
   "lastOpenFiles": [
+    "devtools/watchexec.md",
+    "devtools/mprocs.md",
+    "assets/Pasted image 20251006235825.png",
+    "assets",
+    "Pasted image 20251006235707.png",
+    "devtools/just.md",
     "daily-notes/10th Oct 2025.md",
     "things-to-do.md",
     "Home.md",
-    "Untitled",
     "python/glob.md",
     "python/python.md",
     "python",
@@ -221,15 +226,11 @@
     "cli/df.md",
     "git/git-cherry-pick.md",
     "ssh/ssh-keygen.md",
-    "devtools/just.md",
     "devtools/devtools.md",
     "ssh/change-passphrase.md",
     "tools/yt-dlp.md",
-    "devtools/watchexec.md",
-    "devtools/mprocs.md",
     "git/git-submodules.md",
     "terminal/export-env-vars-from-env.md",
-    "terminal/tmux.md",
-    "git/git-remotes.md"
+    "terminal/tmux.md"
   ]
 }

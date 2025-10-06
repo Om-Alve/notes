@@ -36,5 +36,7 @@ start:
 
 Then you can use `just <recipe-name>` to run a recipe.
 
+>  `just` can be invoked from any subdirectory, not just the directory that contains the `justfile`.
+
 Ref:
 [just docs](https://just.systems/man/en/)
