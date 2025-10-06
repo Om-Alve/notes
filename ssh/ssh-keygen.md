@@ -1,3 +1,4 @@
+#ssh
 ### Recommended way to generate an ssh key.
 
 ```bash

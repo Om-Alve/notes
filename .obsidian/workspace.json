@@ -11,6 +11,16 @@
             "id": "7edaa3b5489657a5",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "820e28e6128b54b2",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "ssh/change-passphrase.md",
@@ -31,7 +41,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,8 +191,26 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b2499d267aec9ce2",
+  "active": "820e28e6128b54b2",
   "lastOpenFiles": [
+    "ssh/Index.md",
+    "devtools/just.md",
+    "cli/Index.md",
+    "Home MOC.md",
+    "terminal/Index.md",
+    "tools/Index.md",
+    "tools/yt-dlp.md",
+    "git/Index.md",
+    "git/git-cherry-pick.md",
+    "devtools/Index.md",
+    "devtools/watchexec.md",
+    "devtools/mprocs.md",
+    "cli/df.md",
+    "git/git-submodules.md",
+    "ssh/ssh-keygen.md",
+    "terminal/export-env-vars-from-env.md",
+    "terminal/tmux.md",
+    "git/git-remotes.md",
     "ssh/change-passphrase.md",
     "Test.md"
   ]

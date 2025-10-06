@@ -1,3 +1,4 @@
+#linux #cli
 You can use the `df` command to get the disk usage.
 
 ```bash

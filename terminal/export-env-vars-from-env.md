@@ -1,3 +1,4 @@
+#terminal #bash 
 ## Managing Environment Variables in Bash
 
 ### What Happens with `source .env`
