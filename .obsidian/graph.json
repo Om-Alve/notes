@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 5427424
       }
+    },
+    {
+      "query": "tag:#daily-todo  ",
+      "color": {
+        "a": 1,
+        "rgb": 14713938
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 0.7402850567162453,
   "close": false
 }

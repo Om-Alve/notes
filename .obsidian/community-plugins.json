@@ -1,5 +1,7 @@
 [
   "github-sync",
   "obsidian-vimrc-support",
-  "leader-hotkeys-obsidian"
+  "leader-hotkeys-obsidian",
+  "homepage",
+  "dataview"
 ]
