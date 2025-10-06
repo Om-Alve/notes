@@ -21,10 +21,14 @@
             "id": "820e28e6128b54b2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/10th Oct 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10th Oct 2025"
             }
           },
           {
@@ -187,23 +191,27 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "820e28e6128b54b2",
+  "active": "b2499d267aec9ce2",
   "lastOpenFiles": [
+    "Home.md",
+    "daily-notes/10th Oct 2025.md",
+    "2025-10-06.md",
+    "Daily Notes/Untitled.md",
+    "daily-notes",
+    "tools/tools.md",
+    "terminal/terminal.md",
+    "ssh/ssh.md",
+    "git/git.md",
+    "cli/cli.md",
+    "cli/df.md",
     "git/git-cherry-pick.md",
     "ssh/ssh-keygen.md",
     "devtools/just.md",
-    "devtools/Index.md",
+    "devtools/devtools.md",
     "ssh/change-passphrase.md",
-    "ssh/Index.md",
-    "cli/Index.md",
-    "Home MOC.md",
-    "terminal/Index.md",
-    "tools/Index.md",
     "tools/yt-dlp.md",
-    "git/Index.md",
     "devtools/watchexec.md",
     "devtools/mprocs.md",
-    "cli/df.md",
     "git/git-submodules.md",
     "terminal/export-env-vars-from-env.md",
     "terminal/tmux.md",

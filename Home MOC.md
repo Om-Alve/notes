@@ -1,6 +1,0 @@
-- [[terminal/Index|Terminal]]
-- [[git/Index|Git]]
-- [[ssh/Index|ssh]]
-- [[tools/Index|Tools]]
-- [[devtools/Index|Devtools]]
-- [[cli/Index|CLI]]
