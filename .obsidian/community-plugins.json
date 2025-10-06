@@ -1,3 +1,5 @@
 [
-  "github-sync"
+  "github-sync",
+  "obsidian-vimrc-support",
+  "leader-hotkeys-obsidian"
 ]
