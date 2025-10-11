@@ -13,40 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "d4ed912f2f9238f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tools/tools.md",
+                "file": "python/Generics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tools"
-            }
-          },
-          {
-            "id": "4d432d95a3918f27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python/python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "python"
+              "title": "Generics"
             }
           }
         ]
@@ -201,6 +173,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home.md",
+    "python/Generics.md",
+    "python/tests.md",
+    "git/git-submodules.md",
+    "python/Function Overloading in Python.md",
+    "devtools/just.md",
+    "daily-notes/10th Oct 2025.md",
     "tools/tools.md",
     "terminal/terminal.md",
     "ssh/ssh.md",
@@ -211,9 +190,6 @@
     "daily-notes/daily notes.md",
     "cli/cli.md",
     "cli/df.md",
-    "python/Function Overloading in Python.md",
-    "daily-notes/10th Oct 2025.md",
-    "git/git-submodules.md",
     "python/glob.md",
     "things-to-do.md",
     "git/Untitled.md",
@@ -222,15 +198,11 @@
     "assets/Pasted image 20251006235825.png",
     "assets",
     "Pasted image 20251006235707.png",
-    "devtools/just.md",
-    "Home.md",
     "python",
     "2025-10-06.md",
     "Daily Notes/Untitled.md",
     "daily-notes",
     "git/git-cherry-pick.md",
-    "ssh/ssh-keygen.md",
-    "tools/yt-dlp.md",
-    "terminal/export-env-vars-from-env.md"
+    "ssh/ssh-keygen.md"
   ]
 }
