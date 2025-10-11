@@ -20,7 +20,28 @@ from typing import TypeVar
 from pydantic import BaseModel
 
 T = TypeVar("T", bound=BaseModel)
-# Now T is bound by BaseModel i.e. Any object should inherit from BaseModel to be considered as type T.
+# Now T is bound by BaseModel i.e. Any object must be a subtype of BaseModel to be used in place of T.
 ```
 
+How to make a generic class?
 
+```python
+from typing import TypeVar, Generics
+
+T = TypeVar("T")
+
+class Box(Generics[T]):
+	def __init__(self, item: T):
+		self.item = item
+	
+	def get_item(self) -> T:
+		return self.item
+	
+box_of_int = Box(1)
+
+print(box_of_int.get_item())
+
+box_of_str = Box("one")
+
+print(box_of_str.get_item())
+```

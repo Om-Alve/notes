@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/Generics.md",
+                "file": "python/tests.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Generics"
+              "title": "tests"
             }
           }
         ]
@@ -173,8 +173,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Home.md",
+    "python/python.md",
     "python/Generics.md",
+    "Home.md",
     "python/tests.md",
     "git/git-submodules.md",
     "python/Function Overloading in Python.md",
@@ -184,7 +185,6 @@
     "terminal/terminal.md",
     "ssh/ssh.md",
     "ssh/change-passphrase.md",
-    "python/python.md",
     "git/git.md",
     "devtools/devtools.md",
     "daily-notes/daily notes.md",
