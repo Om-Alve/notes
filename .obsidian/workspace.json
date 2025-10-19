@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ssh/SCP.md",
+                "file": "cli/rsync.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SCP"
+              "title": "rsync"
             }
           }
         ]
@@ -181,15 +181,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b2499d267aec9ce2",
   "lastOpenFiles": [
-    "Home.md",
+    "cli/file.md",
     "ssh/SCP.md",
+    "cli/rsync.md",
+    "ssh/ssh.md",
+    "cli/cli.md",
+    "Home.md",
     "git/git-submodules.md",
     "git/git-remotes.md",
     "git/git-cherry-pick.md",
     "ssh/change-passphrase.md",
-    "ssh/ssh.md",
     "ssh/ssh-keygen.md",
     "git/git.md",
     "devtools/just.md",
@@ -203,12 +206,9 @@
     "tools/tools.md",
     "terminal/terminal.md",
     "devtools/devtools.md",
-    "cli/cli.md",
     "cli/df.md",
     "python/glob.md",
     "things-to-do.md",
-    "git/Untitled.md",
-    "devtools/watchexec.md",
     "assets/Pasted image 20251006235825.png",
     "assets",
     "Pasted image 20251006235707.png",

@@ -25,6 +25,8 @@ Some useful OPTIONS are:
 
 `-r` -> copy files from a folder recursively.
 
+A better alternative of SCP is [[rsync]]
+
 
 References:
 [Guide to SCP](https://snapshooter.com/learn/linux/copy-files-scp)
