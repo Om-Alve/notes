@@ -1,8 +1,9 @@
 [
-  "github-sync",
   "obsidian-vimrc-support",
   "leader-hotkeys-obsidian",
   "homepage",
   "dataview",
-  "obsidian-linter"
+  "obsidian-linter",
+  "code-styler",
+  "obsidian-git"
 ]

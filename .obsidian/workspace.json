@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/tests.md",
+                "file": "ssh/SCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tests"
+              "title": "SCP"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: mproc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of change-passphrase"
             }
+          },
+          {
+            "id": "3a6bda3ae1655a46",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,42 +177,42 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "github-sync:Sync with Remote": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home.md",
+    "ssh/SCP.md",
+    "git/git-submodules.md",
+    "git/git-remotes.md",
+    "git/git-cherry-pick.md",
+    "ssh/change-passphrase.md",
+    "ssh/ssh.md",
+    "ssh/ssh-keygen.md",
+    "git/git.md",
+    "devtools/just.md",
+    "devtools/mprocs.md",
+    "daily-notes/daily notes.md",
+    "python/tests.md",
     "python/python.md",
     "python/Generics.md",
-    "Home.md",
-    "python/tests.md",
-    "git/git-submodules.md",
     "python/Function Overloading in Python.md",
-    "devtools/just.md",
     "daily-notes/10th Oct 2025.md",
     "tools/tools.md",
     "terminal/terminal.md",
-    "ssh/ssh.md",
-    "ssh/change-passphrase.md",
-    "git/git.md",
     "devtools/devtools.md",
-    "daily-notes/daily notes.md",
     "cli/cli.md",
     "cli/df.md",
     "python/glob.md",
     "things-to-do.md",
     "git/Untitled.md",
     "devtools/watchexec.md",
-    "devtools/mprocs.md",
     "assets/Pasted image 20251006235825.png",
     "assets",
     "Pasted image 20251006235707.png",
     "python",
-    "2025-10-06.md",
-    "Daily Notes/Untitled.md",
-    "daily-notes",
-    "git/git-cherry-pick.md",
-    "ssh/ssh-keygen.md"
+    "daily-notes"
   ]
 }
